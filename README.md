@@ -2,20 +2,20 @@
 - Analysis of crowdfunded performing art campaigns "Kickstarter dataset" to uncover trends related to "Launch Dates" and "Funding Goals".
 ---
 ## Purpose
-    - Louise, an upcoming playwright, is planning for her new play "Fever". She  planned to run a crowdfunding campaign to fund her play. She has reached the state where she is close to her fundraising goal. Now, she is confidently moving forward on further steps at the same time relying on the data analysis before each step. Before she gets into the production phase of the play, she wants to understand the trends of outcomes based on launch dates and funding goals of different campaigns. 
+- Louise, an upcoming playwright, is planning for her new play "Fever". She  planned to run a crowdfunding campaign to fund her play. She has reached the state where she is close to her fundraising goal. Now, she is confidently moving forward on further steps at the same time relying on the data analysis before each step. Before she gets into the production phase of the play, she wants to understand the trends of outcomes based on launch dates and funding goals of different campaigns. 
 
-    - The same Kickstarter dataset - used for analysis before the fundraising, is being used now to visualize the different campaign outcomes based on the "Launch Dates" and "Funding Goals".
+- The same Kickstarter dataset - used for analysis before the fundraising, is being used now to visualize the different campaign outcomes based on the "Launch Dates" and "Funding Goals".
 
 ## **Analysis and Challenges**
-    - The Kickstarter dataset comprises of the data having various forms of performing arts like Theater, Music, Technology, Film/Video etc., to name a few. Theater category deals with the performing art "Play" for whose success the data is being analysed. 
+- The Kickstarter dataset comprises of the data having various forms of performing arts like Theater, Music, Technology, Film/Video etc., to name a few. Theater category deals with the performing art "Play" for whose success the data is being analysed. 
     
-    - The Kickstarter dataset has data on outcomes of various campaigns.  It captures data on time period parameters of "Date created" and "Date ended". It even captures the demographic information indicating the country the campaigns were run. 
+- The Kickstarter dataset has data on outcomes of various campaigns.  It captures data on time period parameters of "Date created" and "Date ended". It even captures the demographic information indicating the country the campaigns were run. 
 
-    -The dataset captures the data on funding goals set and achieved. It also gives insights on the number of supporters each campaign could attract.
+- The dataset captures the data on funding goals set and achieved. It also gives insights on the number of supporters each campaign could attract.
 
-    - The main challenge in the Kickstarter dataset was around the time period data. The dataset provided the UNIX timestamps which had to be converted to the readable format of 'Date created' and 'Date ended'. Microsoft Excel formula was applied to accomplish this task. Apart from this couple of new columns were required like Average Donation, Percentage Funded, Parent category and Subcategory for which the data were populated using other existing data columns.
+- The main challenge in the Kickstarter dataset was around the time period data. The dataset provided the UNIX timestamps which had to be converted to the readable format of 'Date created' and 'Date ended'. Microsoft Excel formula was applied to accomplish this task. Apart from this couple of new columns were required like Average Donation, Percentage Funded, Parent category and Subcategory for which the data were populated using other existing data columns.
 
-    - The complete analysis of the dataset can be downloaded and viewed in the MS excel file hyperlinked as "Kickstarter-Analysis file" below : 
+- The complete analysis of the dataset can be downloaded and viewed in the MS excel file hyperlinked as "Kickstarter-Analysis file" below : 
 <a href="https://github.com/VinuthaBS/Kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx.zip">------> Kickstarter-Analysis file</a>
 
 ---
@@ -40,7 +40,7 @@
 
 ### Challenges and Difficulties encountered :
 
-    - Difficulty encountered during this process was around sharing the report on github repository. Unwanted file ".DS_Store" got added into the repository. Researched online on this and handled this issue using a ".gitignore" file.
+- Difficulty encountered during this process was around sharing the report on github repository. Unwanted file ".DS_Store" got added into the repository. Researched online on this and handled this issue using a ".gitignore" file.
 
 ## **Results :**
 
