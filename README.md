@@ -15,7 +15,7 @@
 
 - The main challenge in the Kickstarter dataset was around the time period data. The dataset provided the UNIX timestamps which had to be converted to the readable format of 'Date created' and 'Date ended'. Microsoft Excel formula was applied to accomplish this task. Apart from this couple of new columns were required like Average Donation, Percentage Funded, Parent category and Subcategory for which the data were populated using other existing data columns.
 
-- The complete analysis of the dataset can be downloaded and viewed in the MS excel file hyperlinked as "Kickstarter-Analysis file" below : 
+- The complete analysis of the dataset can be downloaded and viewed in the MS excel file hyperlinked as "Kickstarter-Analysis file" : 
 <a href="https://github.com/VinuthaBS/Kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx.zip">------> Kickstarter-Analysis file</a>
 
 ---
